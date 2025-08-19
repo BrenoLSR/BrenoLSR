@@ -46,7 +46,9 @@ Sou **cadete na 42**, estudante de **Ciência da Computação e Engenharia de So
 
 </div>
 
-![Breno's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrenoLSR&theme=react-dark&hide_border=true)
+## 🐍 Meu progresso de commits
+
+![Breno's GitHub Snake](.github/snake/snake.gif)
 
 
 <!--
