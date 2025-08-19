@@ -5,6 +5,7 @@ Sou **cadete na 42**, estudante de **Ciência da Computação e Engenharia de So
 <!-- Badge da 42 -->
 <img src="https://img.shields.io/badge/42-Cadete-informational?style=for-the-badge&logo=42" alt="Cadete 42" />
 
+## 📊 Estatísticas  
 <div align="center">
   <!-- Card de Estatísticas do GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=BrenoLSR&show_icons=true&theme=dracula" alt="Breno GitHub Stats" />
@@ -13,6 +14,7 @@ Sou **cadete na 42**, estudante de **Ciência da Computação e Engenharia de So
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoLSR&layout=compact&theme=dracula" alt="Breno Top Languages" />
 </div>
 
+## 💻 Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Breno-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -29,7 +31,6 @@ Sou **cadete na 42**, estudante de **Ciência da Computação e Engenharia de So
   <img align="center" alt="Breno-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-##
 <div align="center">
 
   <h2>📫 Contato</h2>
