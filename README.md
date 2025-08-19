@@ -46,10 +46,6 @@ Sou **cadete na 42**, estudante de **Ciência da Computação e Engenharia de So
 
 </div>
 
-## 🐍 Meu progresso de commits
-
-![Breno's GitHub Snake](.github/snake/snake.gif)
-
 
 <!--
 **BrenoLSR/BrenoLSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
