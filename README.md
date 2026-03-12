@@ -21,26 +21,13 @@
 
 ## 👋 About Me
 
-```c
-typedef struct  s_breno
-{
-    char    *name;
-    char    *school;
-    char    *degree;
-    char    *interests[3];
-    char    *currently_learning;
-    bool    open_to_work;
-}               t_breno;
+🎓 Cadet at **42 São Paulo** — studying **Computer Science & Software Engineering**
 
-t_breno me = {
-    .name               = "Breno LSR",
-    .school             = "42 São Paulo",
-    .degree             = "Computer Science & Software Engineering",
-    .interests          = {"Web Development", "Data Science", "Automation"},
-    .currently_learning = "C, Systems Programming, Algorithms",
-    .open_to_work       = true
-};
-```
+💡 Passionate about **Web Development**, **Data Science** and **Automation**
+
+🔭 Currently deepening my knowledge in **Systems Programming**, **Algorithms** and **Low-level C**
+
+🚀 Always building projects, solving problems and pushing my limits
 
 ---
 
@@ -105,22 +92,12 @@ t_breno me = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrenoLSR&theme=tokyonight&hide_border=true"/>
 </div>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrenoLSR/BrenoLSR/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
 
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
