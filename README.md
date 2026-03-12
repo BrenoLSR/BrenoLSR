@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Breno%20LSR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cadet%20%40%2042%20SP%20%7C%20CS%20%26%20Software%20Engineering&descAlignY=55&descSize=16"/>
+# Hi there, I'm Breno 👋
+### Cadet @ 42 SP · Computer Science & Software Engineering
 
 </div>
 
@@ -94,17 +95,5 @@
 
 
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+  <i>Always learning. Always building.</i>
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
